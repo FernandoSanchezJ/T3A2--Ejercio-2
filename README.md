@@ -15,3 +15,6 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
    - Diferencia de lapzos de tiempo
    
 ## Etapa 3. Diseño de la solucion
+![]()
+## Etapa 4
+https://github.com/FernandoSanchezJ/T3A2--Ejercio-2/blob/main/T3A2.zip
